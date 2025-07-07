@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+emonet_env/
+features/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and cache
+*.npz
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
