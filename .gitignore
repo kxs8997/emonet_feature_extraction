@@ -1,6 +1,10 @@
 # Ignore Python virtual environments
 emonet_env/
 features/
+hsv_features_training/
+hsv_training_run/
+test_hsv_run/
+test_run/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
